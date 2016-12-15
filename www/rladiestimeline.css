@@ -1,0 +1,19 @@
+.vis-item {
+    position: absolute;
+    color: #1A1A1A;
+    border-color: #0066cc;
+    border-width: 2px;
+    background-color: #FFFFFF;
+    display: inline-block;
+}
+.well {
+    background-color: #cce5ff;
+}
+.vis-current-time{
+  background-color: #004c99;
+}
+.btn-default {
+    color: #333;
+    background-color: #ff9933;
+    border-color: #ccc;
+}
